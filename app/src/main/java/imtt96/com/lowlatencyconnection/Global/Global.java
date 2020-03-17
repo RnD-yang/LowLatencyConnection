@@ -14,7 +14,7 @@ public class Global {
     }
 
     public String getUrl() {
-        return "http://203.255.81.72/heegis/latency/";
+        return "Server IP address";
     }
 
     private SsidTable mapingTable = new SsidTable();
